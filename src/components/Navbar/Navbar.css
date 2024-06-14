@@ -40,7 +40,7 @@
   width: 20px;
   cursor: pointer;
 }
-.navbar-right .profile {
+.navbar .profile {
   width: 35px;
   border-radius: 4px;
   position: relative;
@@ -58,7 +58,7 @@
   z-index: 1;
   display: none;
 }
-.navbar .dropdown p {
+.navbar-profile .dropdown p {
   font-size: 13px;
   cursor: pointer;
 }
